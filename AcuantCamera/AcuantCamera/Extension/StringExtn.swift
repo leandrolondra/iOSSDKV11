@@ -6,6 +6,8 @@
 //  Copyright © 2021 Tapas Behera. All rights reserved.
 //
 
+import UIKit
+
 extension String {
     static let kUISupportedInterfaceOrientations = "UISupportedInterfaceOrientations"
     static let kUIInterfaceOrientationPortrait = "UIInterfaceOrientationPortrait"

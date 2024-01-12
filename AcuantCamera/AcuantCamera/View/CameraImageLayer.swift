@@ -6,6 +6,7 @@
 //  Copyright © 2021 Tapas Behera. All rights reserved.
 //
 
+import UIKit
 import Foundation
 
 class CameraImageLayer: CALayer {

@@ -6,7 +6,7 @@
 //  Copyright © 2019 Apple. All rights reserved.
 //
 
-import Foundation
+import UIKit
 
 public class AcuantOcrDetector {
     let tesseract: Tesseract
